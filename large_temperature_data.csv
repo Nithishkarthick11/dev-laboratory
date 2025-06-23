@@ -1,0 +1,319 @@
+Date,City,Temperature
+2024-01-01,New York,21
+2024-01-08,New York,34
+2024-01-15,New York,43
+2024-01-22,New York,29
+2024-01-29,New York,25
+2024-02-05,New York,22
+2024-02-12,New York,43
+2024-02-19,New York,35
+2024-02-26,New York,21
+2024-03-04,New York,40
+2024-03-11,New York,33
+2024-03-18,New York,37
+2024-03-25,New York,25
+2024-04-01,New York,25
+2024-04-08,New York,38
+2024-04-15,New York,35
+2024-04-22,New York,18
+2024-04-29,New York,22
+2024-05-06,New York,38
+2024-05-13,New York,17
+2024-05-20,New York,36
+2024-05-27,New York,35
+2024-06-03,New York,16
+2024-06-10,New York,38
+2024-06-17,New York,26
+2024-06-24,New York,44
+2024-07-01,New York,20
+2024-07-08,New York,16
+2024-07-15,New York,42
+2024-07-22,New York,35
+2024-07-29,New York,15
+2024-08-05,New York,26
+2024-08-12,New York,40
+2024-08-19,New York,36
+2024-08-26,New York,43
+2024-09-02,New York,26
+2024-09-09,New York,39
+2024-09-16,New York,31
+2024-09-23,New York,41
+2024-09-30,New York,41
+2024-10-07,New York,24
+2024-10-14,New York,42
+2024-10-21,New York,42
+2024-10-28,New York,30
+2024-11-04,New York,29
+2024-11-11,New York,44
+2024-11-18,New York,44
+2024-11-25,New York,29
+2024-12-02,New York,44
+2024-12-09,New York,33
+2024-12-16,New York,26
+2024-12-23,New York,37
+2024-12-30,New York,34
+2024-01-01,Chicago,39
+2024-01-08,Chicago,17
+2024-01-15,Chicago,19
+2024-01-22,Chicago,33
+2024-01-29,Chicago,21
+2024-02-05,Chicago,35
+2024-02-12,Chicago,23
+2024-02-19,Chicago,21
+2024-02-26,Chicago,32
+2024-03-04,Chicago,18
+2024-03-11,Chicago,39
+2024-03-18,Chicago,42
+2024-03-25,Chicago,28
+2024-04-01,Chicago,32
+2024-04-08,Chicago,40
+2024-04-15,Chicago,23
+2024-04-22,Chicago,40
+2024-04-29,Chicago,35
+2024-05-06,Chicago,16
+2024-05-13,Chicago,34
+2024-05-20,Chicago,42
+2024-05-27,Chicago,29
+2024-06-03,Chicago,42
+2024-06-10,Chicago,21
+2024-06-17,Chicago,26
+2024-06-24,Chicago,43
+2024-07-01,Chicago,22
+2024-07-08,Chicago,29
+2024-07-15,Chicago,17
+2024-07-22,Chicago,28
+2024-07-29,Chicago,31
+2024-08-05,Chicago,18
+2024-08-12,Chicago,32
+2024-08-19,Chicago,22
+2024-08-26,Chicago,18
+2024-09-02,Chicago,16
+2024-09-09,Chicago,44
+2024-09-16,Chicago,20
+2024-09-23,Chicago,36
+2024-09-30,Chicago,24
+2024-10-07,Chicago,18
+2024-10-14,Chicago,36
+2024-10-21,Chicago,43
+2024-10-28,Chicago,32
+2024-11-04,Chicago,40
+2024-11-11,Chicago,26
+2024-11-18,Chicago,16
+2024-11-25,Chicago,24
+2024-12-02,Chicago,44
+2024-12-09,Chicago,18
+2024-12-16,Chicago,28
+2024-12-23,Chicago,30
+2024-12-30,Chicago,29
+2024-01-01,Los Angeles,22
+2024-01-08,Los Angeles,28
+2024-01-15,Los Angeles,37
+2024-01-22,Los Angeles,42
+2024-01-29,Los Angeles,39
+2024-02-05,Los Angeles,44
+2024-02-12,Los Angeles,22
+2024-02-19,Los Angeles,35
+2024-02-26,Los Angeles,30
+2024-03-04,Los Angeles,27
+2024-03-11,Los Angeles,32
+2024-03-18,Los Angeles,29
+2024-03-25,Los Angeles,35
+2024-04-01,Los Angeles,38
+2024-04-08,Los Angeles,40
+2024-04-15,Los Angeles,39
+2024-04-22,Los Angeles,42
+2024-04-29,Los Angeles,42
+2024-05-06,Los Angeles,42
+2024-05-13,Los Angeles,27
+2024-05-20,Los Angeles,23
+2024-05-27,Los Angeles,43
+2024-06-03,Los Angeles,29
+2024-06-10,Los Angeles,27
+2024-06-17,Los Angeles,15
+2024-06-24,Los Angeles,39
+2024-07-01,Los Angeles,21
+2024-07-08,Los Angeles,23
+2024-07-15,Los Angeles,38
+2024-07-22,Los Angeles,15
+2024-07-29,Los Angeles,26
+2024-08-05,Los Angeles,22
+2024-08-12,Los Angeles,38
+2024-08-19,Los Angeles,25
+2024-08-26,Los Angeles,33
+2024-09-02,Los Angeles,31
+2024-09-09,Los Angeles,22
+2024-09-16,Los Angeles,17
+2024-09-23,Los Angeles,17
+2024-09-30,Los Angeles,15
+2024-10-07,Los Angeles,41
+2024-10-14,Los Angeles,19
+2024-10-21,Los Angeles,24
+2024-10-28,Los Angeles,21
+2024-11-04,Los Angeles,40
+2024-11-11,Los Angeles,23
+2024-11-18,Los Angeles,42
+2024-11-25,Los Angeles,21
+2024-12-02,Los Angeles,23
+2024-12-09,Los Angeles,22
+2024-12-16,Los Angeles,26
+2024-12-23,Los Angeles,16
+2024-12-30,Los Angeles,15
+2024-01-01,Houston,30
+2024-01-08,Houston,37
+2024-01-15,Houston,37
+2024-01-22,Houston,44
+2024-01-29,Houston,38
+2024-02-05,Houston,19
+2024-02-12,Houston,17
+2024-02-19,Houston,26
+2024-02-26,Houston,22
+2024-03-04,Houston,36
+2024-03-11,Houston,41
+2024-03-18,Houston,17
+2024-03-25,Houston,15
+2024-04-01,Houston,17
+2024-04-08,Houston,19
+2024-04-15,Houston,29
+2024-04-22,Houston,28
+2024-04-29,Houston,17
+2024-05-06,Houston,15
+2024-05-13,Houston,19
+2024-05-20,Houston,40
+2024-05-27,Houston,37
+2024-06-03,Houston,28
+2024-06-10,Houston,21
+2024-06-17,Houston,41
+2024-06-24,Houston,23
+2024-07-01,Houston,29
+2024-07-08,Houston,29
+2024-07-15,Houston,40
+2024-07-22,Houston,24
+2024-07-29,Houston,42
+2024-08-05,Houston,27
+2024-08-12,Houston,33
+2024-08-19,Houston,21
+2024-08-26,Houston,31
+2024-09-02,Houston,34
+2024-09-09,Houston,43
+2024-09-16,Houston,18
+2024-09-23,Houston,44
+2024-09-30,Houston,19
+2024-10-07,Houston,37
+2024-10-14,Houston,21
+2024-10-21,Houston,27
+2024-10-28,Houston,29
+2024-11-04,Houston,25
+2024-11-11,Houston,43
+2024-11-18,Houston,18
+2024-11-25,Houston,27
+2024-12-02,Houston,21
+2024-12-09,Houston,41
+2024-12-16,Houston,33
+2024-12-23,Houston,36
+2024-12-30,Houston,42
+2024-01-01,Phoenix,16
+2024-01-08,Phoenix,24
+2024-01-15,Phoenix,27
+2024-01-22,Phoenix,44
+2024-01-29,Phoenix,39
+2024-02-05,Phoenix,35
+2024-02-12,Phoenix,20
+2024-02-19,Phoenix,42
+2024-02-26,Phoenix,42
+2024-03-04,Phoenix,26
+2024-03-11,Phoenix,26
+2024-03-18,Phoenix,34
+2024-03-25,Phoenix,44
+2024-04-01,Phoenix,44
+2024-04-08,Phoenix,25
+2024-04-15,Phoenix,40
+2024-04-22,Phoenix,37
+2024-04-29,Phoenix,42
+2024-05-06,Phoenix,39
+2024-05-13,Phoenix,21
+2024-05-20,Phoenix,44
+2024-05-27,Phoenix,15
+2024-06-03,Phoenix,15
+2024-06-10,Phoenix,39
+2024-06-17,Phoenix,41
+2024-06-24,Phoenix,44
+2024-07-01,Phoenix,39
+2024-07-08,Phoenix,34
+2024-07-15,Phoenix,27
+2024-07-22,Phoenix,23
+2024-07-29,Phoenix,17
+2024-08-05,Phoenix,21
+2024-08-12,Phoenix,20
+2024-08-19,Phoenix,22
+2024-08-26,Phoenix,41
+2024-09-02,Phoenix,23
+2024-09-09,Phoenix,44
+2024-09-16,Phoenix,19
+2024-09-23,Phoenix,15
+2024-09-30,Phoenix,33
+2024-10-07,Phoenix,24
+2024-10-14,Phoenix,26
+2024-10-21,Phoenix,38
+2024-10-28,Phoenix,29
+2024-11-04,Phoenix,41
+2024-11-11,Phoenix,36
+2024-11-18,Phoenix,38
+2024-11-25,Phoenix,23
+2024-12-02,Phoenix,34
+2024-12-09,Phoenix,31
+2024-12-16,Phoenix,44
+2024-12-23,Phoenix,31
+2024-12-30,Phoenix,40
+2024-01-01,Miami,34
+2024-01-08,Miami,26
+2024-01-15,Miami,44
+2024-01-22,Miami,21
+2024-01-29,Miami,16
+2024-02-05,Miami,17
+2024-02-12,Miami,31
+2024-02-19,Miami,19
+2024-02-26,Miami,31
+2024-03-04,Miami,38
+2024-03-11,Miami,31
+2024-03-18,Miami,41
+2024-03-25,Miami,31
+2024-04-01,Miami,16
+2024-04-08,Miami,16
+2024-04-15,Miami,42
+2024-04-22,Miami,36
+2024-04-29,Miami,37
+2024-05-06,Miami,19
+2024-05-13,Miami,15
+2024-05-20,Miami,15
+2024-05-27,Miami,33
+2024-06-03,Miami,44
+2024-06-10,Miami,16
+2024-06-17,Miami,35
+2024-06-24,Miami,26
+2024-07-01,Miami,40
+2024-07-08,Miami,20
+2024-07-15,Miami,37
+2024-07-22,Miami,18
+2024-07-29,Miami,37
+2024-08-05,Miami,25
+2024-08-12,Miami,38
+2024-08-19,Miami,41
+2024-08-26,Miami,31
+2024-09-02,Miami,20
+2024-09-09,Miami,38
+2024-09-16,Miami,19
+2024-09-23,Miami,34
+2024-09-30,Miami,16
+2024-10-07,Miami,20
+2024-10-14,Miami,36
+2024-10-21,Miami,25
+2024-10-28,Miami,30
+2024-11-04,Miami,30
+2024-11-11,Miami,15
+2024-11-18,Miami,23
+2024-11-25,Miami,42
+2024-12-02,Miami,41
+2024-12-09,Miami,20
+2024-12-16,Miami,30
+2024-12-23,Miami,43
+2024-12-30,Miami,17
